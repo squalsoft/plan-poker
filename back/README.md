@@ -53,7 +53,7 @@ CREATE DATABASE hackernews;
 ```
 finally run the server: 
 ```bash
-go run server/server.go
+go run back/server.go
 ```
 Now navigate to https://localhost:8080 you can see graphiql playground and query the graphql server.
 
